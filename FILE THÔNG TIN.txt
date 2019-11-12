@@ -1,15 +1,19 @@
 LINK GITHUB: https://github.com/nhdien07122012/pttmdt
 
-TAI KHOẢN QUẢN TRỊ: admin
+TAI KHOAN QUAN TRI: admin
 
-MẬT KHẨU QUẢN TRỊ: admin
+MAT KHAU QUAN TRI: admin
 
 ———————————————
 
-TÊN DATABASE:  tmdt
+TEN DATABASE:  tmdt
 
 USER PHPADMIN:  root
 
-MẬT KHẨU : không có
+MAT KHAU : DE TRONG
 
 HOST: localhost
+
+CONG: 80
+
+#HUONGDANCAIDAT: GIAI NEN SOURCE, COPY TOAN BO FILE TRONG THU MUC "MRDCLOCK-V3" VAO THU MUC "htdocs"(XAMPP), VAO PHPADMIN TAO DATABASE MOI DAT TEN LA "tmdt" ; IMPORT FILE .SQL VAO DATABASE MOI TAO VA KHOI CHAY localhost !!!
