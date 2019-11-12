@@ -1,0 +1,15 @@
+LINK GITHUB: https://github.com/nhdien07122012/pttmdt
+
+TAI KHOẢN QUẢN TRỊ: admin
+
+MẬT KHẨU QUẢN TRỊ: admin
+
+———————————————
+
+TÊN DATABASE:  tmdt
+
+USER PHPADMIN:  root
+
+MẬT KHẨU : không có
+
+HOST: localhost
